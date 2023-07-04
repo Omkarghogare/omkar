@@ -20,7 +20,7 @@ public class UserContriller {
 	{
 		
 		User user2 =  userServiceImpl.saveUser(user);
-		System.out.println("the addition of compan");
+
 		return user2;
 		
 	}
