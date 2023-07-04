@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class OneToOneApplication {
 
 	public static void main(String[] args) {
+		System.out.println("hii i am atul");
 		SpringApplication.run(OneToOneApplication.class, args);
 	}
 
